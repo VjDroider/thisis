@@ -14,7 +14,7 @@ require 'include/front_header.php';
             <div class="col-12 d-flex align-items-center justify-content-center">
                 <div class="card gradient-indigo-purple text-center width-400">
                     <div class="card-img overlap">
-                        <img alt="element 06" class="mb-1" src="app-assets/img/osm.png" width="100">
+                        <img alt="element 06" class="mb-1" src="app-assets/img/osm.png" width="200">
                     </div>
                     <div class="card-body">
                         <div class="card-block">
